@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Harun Or Rashid</h1>
 <h3 align="center">Webdeveloper from Bangladesh.</h3>
 
-<p align="left"> <img src="[https://github-profile-trophy.vercel.app/?username=smartictsource" alt="smartictsource](https://media-exp1.licdn.com/dms/image/C5616AQG10VQPvpeSLw/profile-displaybackgroundimage-shrink_350_1400/0/1655893524653?e=1672272000&v=beta&t=lFOANH6QDxw70FvYqWhGSVCJsMsLvCkMzXLcXZOtALw)" /> </p>
-
-
-<-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=smartictsource&label=Profile%20views&color=0e75b6&style=flat" alt="smartictsource" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smartictsource&label=Profile%20views&color=0e75b6&style=flat" alt="smartictsource" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smartictsource" alt="smartictsource" /></a> </p>
 
