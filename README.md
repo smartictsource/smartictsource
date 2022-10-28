@@ -86,6 +86,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smartictsource&" alt="smartictsource" /></p>
 
-<h3 align="left">Visit our website:</h3>
-<a href="https://smartictsource.com" target="_blank" rel="noreferrer"> <img src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-1/313386881_634766738253011_2544961970867531156_n.jpg?stp=c6.13.187.187a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=c6021c&_nc_ohc=h5j0b5CYNy0AX_NwJ2q&_nc_ht=scontent.fdac15-1.fna&oh=00_AfACWI6imzsSKYhPMSJ1kiOD6CCKiRWgJd5kq66AKKwQhg&oe=636101BE" alt="smartictsource" width="40" height="40"/>smartictsource.com</a> 
+<h3 align="left">Visit our website:</h3> <a href="https://smartictsource.com" />smartictsource.com</a> 
+
+<a href="https://smartictsource.com" target="_blank" rel="noreferrer"> <img src="https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-1/313386881_634766738253011_2544961970867531156_n.jpg?stp=c6.13.187.187a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=c6021c&_nc_ohc=h5j0b5CYNy0AX_NwJ2q&_nc_ht=scontent.fdac15-1.fna&oh=00_AfACWI6imzsSKYhPMSJ1kiOD6CCKiRWgJd5kq66AKKwQhg&oe=636101BE" alt="smartictsource" width="40" height="40"/> </a> 
 
