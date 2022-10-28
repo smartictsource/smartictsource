@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Md. Harun Or Rashid</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-![I am web developer from Bangladesh.](https://www.facebook.com/photo/?fbid=634761581586860&set=a.557481525981533)
 
 
 ### Hi there 👋, my name is MD. HARUN OR RASHID
 #### A passionate web developer from Bangladesh
-![A passionate web developer from Bangladesh](https://www.facebook.com/photo/?fbid=634761581586860&set=a.557481525981533)
+![A passionate web developer from Bangladesh]([https://www.facebook.com/photo/?fbid=634761581586860&set=a.557481525981533](https://scontent.fdac15-1.fna.fbcdn.net/v/t39.30808-6/313369294_634761578253527_5013242674504289772_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=PwMs3RIq1v4AX9iLk8n&_nc_ht=scontent.fdac15-1.fna&oh=00_AfCp0YV29ZQrgpwEVgEz-tuKqPZEYp8mUunereKBMRXv8A&oe=6360BD8E)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
