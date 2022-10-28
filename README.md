@@ -26,26 +26,26 @@
 
 <h3>My Education</h3>
 
- I was attended good school and university in my country. I have completed my graduation in computer science and engineering. I feel happy to be a part of thats institutes with the good friends, helpful teacher and sound administration. I have extraordinary skills in some subjects whereas I am very weak in the few.  <br/><br/>
+<p align="justify"> I was attended good school and university in my country. I have completed my graduation in computer science and engineering. I feel happy to be a part of thats institutes with the good friends, helpful teacher and sound administration. I have extraordinary skills in some subjects whereas I am very weak in the few.</p>  <br/><br/>
 
 
 <h3>My Strengths</h3>
 
-In compare to studies, I am good at sports. so I am the captain of my class football team. I am the best football player at my school. Besides this, I am a fast runner also and I love athletics. I am in expert swimming. The advice of my parents had a keen effect on my habits. I believe to speak the truth and try my best not to lie. My parents always advised me that if I commit a mistake, I should admit it. I try my best to do so. I know how to remain happy in every condition. Because I believe that: “Happiness is not out there; it’s in you.” I am a very adventurous person too and like to take the risk. I like to do a creative thing besides doing old stuff again and again. Learning new things is one thing which I always enjoy. I always update myself with the news. Along with this, I fond of reading a few children magazines in which different motivational stories are there. They taught me a high moral lesson. I am a very confident person and know how to talk. I always try to speak to every person according to his requirement so I understand people. <br/><br/>
+<p align="justify"> In compare to studies, I am good at sports. so I am the captain of my class football team. I am the best football player at my school. Besides this, I am a fast runner also and I love athletics. I am in expert swimming. The advice of my parents had a keen effect on my habits. I believe to speak the truth and try my best not to lie. My parents always advised me that if I commit a mistake, I should admit it. I try my best to do so. I know how to remain happy in every condition. Because I believe that: “Happiness is not out there; it’s in you.” I am a very adventurous person too and like to take the risk. I like to do a creative thing besides doing old stuff again and again. Learning new things is one thing which I always enjoy. I always update myself with the news. Along with this, I fond of reading a few children magazines in which different motivational stories are there. They taught me a high moral lesson. I am a very confident person and know how to talk. I always try to speak to every person according to his requirement so I understand people. </p> <br/><br/>
 
 <h3>My Weaknesses</h3>
 
-As every man have weaknesses, so have also. I am a little bit lazy at some places which I do not like. While playing time, I pass my lot of time there which is not a good habit, but I try my best to overcome my weaknesses. <br/><br/>
+<p align="justify"> As every man have weaknesses, so have also. I am a little bit lazy at some places which I do not like. While playing time, I pass my lot of time there which is not a good habit, but I try my best to overcome my weaknesses. </p> <br/><br/>
 
 
 <h3>My Ambitions in Life</h3>
 
-Everybody has an ambition in life. Aim or ambition is the inner aspiration of man. No man can do anything in the world without aim. So, all of us should be very determined about our aim in life. Without good career planning, right from the start, one can’t be on the right track. One has to set the goals in accordance with his or her broad career goals. I have studied computer science and engineering. I will do all that to be a good web developer and will be sincere to it. <br/><br/>
+<p align="justify"> Everybody has an ambition in life. Aim or ambition is the inner aspiration of man. No man can do anything in the world without aim. So, all of us should be very determined about our aim in life. Without good career planning, right from the start, one can’t be on the right track. One has to set the goals in accordance with his or her broad career goals. I have studied computer science and engineering. I will do all that to be a good web developer and will be sincere to it. </p> <br/><br/>
 
 
 <h3>Conclusion</h3>
 
-These are all the things which express me. Though nobody can be described in a few sets of sentences. One needs to have yet command of oneself before going to write something about his life. Life is meant to be lived avidly and with visualization to do good for your fellow beings. Keeping this aim in mind, I have always desired to serve my people in whatever capacity I can.
+<p align="justify"> These are all the things which express me. Though nobody can be described in a few sets of sentences. One needs to have yet command of oneself before going to write something about his life. Life is meant to be lived avidly and with visualization to do good for your fellow beings. Keeping this aim in mind, I have always desired to serve my people in whatever capacity I can. </p>
 
 
 
